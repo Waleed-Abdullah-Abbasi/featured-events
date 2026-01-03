@@ -143,11 +143,11 @@ git push -u origin main
 ## 🔗 Live Preview
 
 <!-- Add your live preview link here after deployment -->
-**Live Demo**: [Your deployed link here]
+**Live Demo**: [[Your deployed link here](https://waleed-abdullah-abbasi.github.io/featured-events/)]
 
 ## 👨‍💻 Developer
 
-Built by [Your Name] for Dynamics 360 Web Development Internship
+Built by [Waleed Abdullah] for Dynamics 360 Web Development Internship
 
 ## 📝 License
 
