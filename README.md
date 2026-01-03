@@ -133,7 +133,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin <[repo-url](https://github.com/Waleed-Abdullah-Abbasi/featured-events)>
+git remote add origin <(https://github.com/Waleed-Abdullah-Abbasi/featured-events)>
 git push -u origin main
 
 # Enable GitHub Pages in repository settings
@@ -143,7 +143,7 @@ git push -u origin main
 ## 🔗 Live Preview
 
 <!-- Add your live preview link here after deployment -->
-**Live Demo**: [[deployed link here](https://waleed-abdullah-abbasi.github.io/featured-events/)]
+**Live Demo**: [[link here](https://waleed-abdullah-abbasi.github.io/featured-events/)]
 
 ## 👨‍💻 Developer
 
